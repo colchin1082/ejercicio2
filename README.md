@@ -43,11 +43,11 @@
     <div class="row">
       <div class="col-md-8">
         <h2>Bienvenido</h2>
-        <p>Este es el contenido principal de la página. Aquí puedes colocar texto, imágenes, enlaces, etc.</p>
+        <p>pagina</p>
       </div>
       <div class="col-md-4">
         <h3>Barra lateral</h3>
-        <p>Este espacio puede usarse para información adicional, enlaces o widgets.</p>
+        <p>verde</p>
       </div>
     </div>
   </main>
